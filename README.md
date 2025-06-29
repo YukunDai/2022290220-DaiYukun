@@ -6,7 +6,7 @@
 
 | 项目                                                         | 描述                                 | 核心技术            |
 | ------------------------------------------------------------ | ------------------------------------ | ------------------- |
-| [基于大模型的情感语义分析](news-verification/)               | 使用大语言模型进行新闻真实性分析     | Ollama, DeepSeek-R1 |
+| [基于大模型的情感语义分析]([news-verification/](https://github.com/YukunDai/Cloud-computing-and-big-data-analytics/tree/main/%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%83%85%E6%84%9F%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90))               | 使用大语言模型进行新闻真实性分析     | Ollama, DeepSeek-R1 |
 | [基于大模型的twitter主题分析](twitter-topic-analysis/)       | 识别推文主题并进行可视化分析         | LDA, DeepSeek API   |
 | [多模态（情感、主题语义）综合预测与分析](multimodal-news-classifier/) | 结合文本、情感和主题特征进行新闻分类 | BERT, PyTorch       |
 
