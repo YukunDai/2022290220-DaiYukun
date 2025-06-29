@@ -6,9 +6,9 @@
 
 | 项目                                                         | 描述                                 | 核心技术            |
 | ------------------------------------------------------------ | ------------------------------------ | ------------------- |
-| 基于大模型的情感语义分析| 使用大语言模型进行新闻真实性分析     | Ollama, DeepSeek-R1 |
-| 基于大模型的twitter主题分析| 识别推文主题并进行可视化分析         | LDA, DeepSeek API   |
-| 多模态（情感、主题语义）综合预测与分析| 结合文本、情感和主题特征进行新闻分类 | BERT, PyTorch       |
+| [基于大模型的情感语义分析](https://github.com/YukunDai/2022290220-DaiYukun/tree/gh-pages/基于大模型的情感语义分析/)| 使用大语言模型进行新闻真实性分析     | Ollama, DeepSeek-R1 |
+| [基于大模型的twitter主题分析](https://github.com/YukunDai/2022290220-DaiYukun/tree/gh-pages/基于大模型的twitter主题分析/)| 识别推文主题并进行可视化分析         | LDA, DeepSeek API   |
+| [多模态（情感、主题语义）综合预测与分析](https://github.com/YukunDai/2022290220-DaiYukun/tree/gh-pages/多模态（情感、主题语义）综合预测与分析/)| 结合文本、情感和主题特征进行新闻分类 | BERT, PyTorch       |
 
 ## 核心功能
 
