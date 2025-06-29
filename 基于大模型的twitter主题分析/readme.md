@@ -161,20 +161,6 @@ python twitter_topic_analysis.py --num_topics 5 --passes 15
 ...
 ```
 
-### 可视化输出
-
-1. **交互式主题模型可视化**：
-
-  
-
-  
-
-2. **主题词云**：
-<img src="/Users/Yukun/PycharmProjects/%E4%BA%91%E8%AE%A1%E7%AE%97/%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84twitter%E4%B8%BB%E9%A2%98%E5%88%86%E6%9E%90/plot_2025-06-29%2019-02-41_4.png" alt="plot_2025-06-29 19-02-41_4" style="zoom:50%;" />
-
-3. **文档-主题分布热力图**：
-![热力图示例](https://via.placeholder.com/600x300?text=Heatmap)
-
 ## 自定义配置
 
 ### 调整主题建模参数
