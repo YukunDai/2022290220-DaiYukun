@@ -33,12 +33,12 @@
 
 1. **使用内置示例新闻**：
    ```bash
-   python news_verification.py
+   python main.py
    ```
 
 2. **使用完整数据集**（需先下载[Kaggle News Detection数据集](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)）：
    ```bash
-   python news_verification.py --use_dataset
+   python main.py --use_dataset
    ```
 
 ## 数据集准备
