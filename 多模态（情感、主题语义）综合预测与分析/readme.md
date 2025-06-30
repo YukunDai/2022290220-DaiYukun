@@ -24,8 +24,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/multimodal-news-classifier.git
-cd multimodal-news-classifier
+git clone https://github.com/YukunDai/2022290220-DaiYukun.git
+cd 多模态（情感、主题语义）综合预测与分析
 ```
 
 2. 创建并激活虚拟环境：
