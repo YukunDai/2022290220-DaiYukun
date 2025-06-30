@@ -25,8 +25,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/twitter-topic-analysis.git
-cd twitter-topic-analysis
+git clone https://github.com/YukunDai/2022290220-DaiYukun.git
+cd 基于大模型的twitter主题分析
 ```
 
 2. 创建并激活虚拟环境：
@@ -59,7 +59,7 @@ DEEPSEEK_API_URL=https://api.deepseek.com/v1
 
 ### 准备数据
 
-在 `twitter_topic_analysis.py` 文件中添加推文数据：
+在 `main.py` 文件中添加推文数据：
 ```python
 tweets = [
     "Just had the best coffee in Seattle! #coffee #morning",
@@ -77,7 +77,7 @@ with open('tweets.txt', 'r', encoding='utf-8') as f:
 ### 运行分析
 
 ```bash
-python twitter_topic_analysis.py
+python main.py
 ```
 
 ### 命令行选项
@@ -90,7 +90,7 @@ python twitter_topic_analysis.py
 
 示例：
 ```bash
-python twitter_topic_analysis.py --num_topics 5 --passes 15
+python main.py --num_topics 5 --passes 15
 ```
 
 ## 输出示例
@@ -165,7 +165,7 @@ python twitter_topic_analysis.py --num_topics 5 --passes 15
 
 ### 调整主题建模参数
 ```python
-# 在 twitter_topic_analysis.py 中修改
+# 在 main.py 中修改
 num_topics = 5  # 主题数量
 passes = 15     # 训练迭代次数
 alpha = 'auto'  # 主题分布超参数
